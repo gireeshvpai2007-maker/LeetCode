@@ -4,12 +4,18 @@ public:
         int n = matrix.size();
         vector<vector<int>> a(n, vector<int>(n));
 
-        for(int i = 0; i < n; i++) {
-            for(int j = 0; j < n; j++) {
-                a[i][j] = matrix[n - 1 - j][i];
-            }
-        }
+        for(int i = 0; i < n; i++)
+{
+    for(int j = i + 1; j < n; j++)
+    {
+        swap(matrix[i][j], matrix[j][i]);
+    }
+}
 
-        matrix = a;
+for(int i = 0; i < n; i++)
+{
+    reverse(matrix[i].begin(), matrix[i].end());
+}
+   
     }
 };
