@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0048-rotate-image) |
 | [0136-single-number](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0137-single-number-ii) |
@@ -42,5 +43,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
