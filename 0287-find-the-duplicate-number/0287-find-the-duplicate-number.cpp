@@ -10,13 +10,12 @@ public:
             slow = nums[slow];
             fast = nums[nums[fast]];
         } while (slow != fast);
-
+        slow=nums[0];
         // Phase 2: Find the entrance to the cycle
-        slow = nums[0];
-
-        while (slow != fast) {
-            slow = nums[slow];
-            fast = nums[fast];
+        while(slow!=fast)
+        {
+            slow=nums[slow];
+            fast=nums[fast];
         }
 
         return slow;
