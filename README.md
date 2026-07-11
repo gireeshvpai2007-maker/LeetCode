@@ -12,15 +12,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0137-single-number-ii) |
+| [0287-find-the-duplicate-number](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0287-find-the-duplicate-number](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -52,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
