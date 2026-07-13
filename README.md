@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0048-rotate-image) |
 | [0136-single-number](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0136-single-number) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0202-happy-number) |
@@ -65,4 +67,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
