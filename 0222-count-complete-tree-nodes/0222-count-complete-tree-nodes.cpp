@@ -11,22 +11,17 @@
  */
 class Solution {
 public:
-    vector<int >Nodes(TreeNode* root) {
-      vector<int>ans;
-        if(root==NULL)
-        {
-            return ans;
-        }
-        ans.push_back(root->val);
-      vector<int>left = Nodes(root->left);
-        ans.insert(ans.end(),left.begin(),left.end());
-     vector<int>right=Nodes(root->right);
-    ans.insert(ans.end(),right.begin(),right.end());
-   return ans;
-    }
     int countNodes(TreeNode* root)
     {
-        vector<int>ans=Nodes(root);
-        return ans.size();
+        
+        if(root==NULL)
+        {
+            return 0;
+        }
+        
+        
+        return 1+countNodes(root->left)+countNodes(root->right);
     }
+    
+
 };
