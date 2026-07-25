@@ -10,8 +10,8 @@
  * };
  */
 class Solution {
-public: int getnum(TreeNode* root,int curr)
-{
+public: int sumNumber(TreeNode* root,int curr)
+{ 
      if(root == NULL)
     return 0;
     curr=curr*10+root->val;
@@ -20,14 +20,14 @@ public: int getnum(TreeNode* root,int curr)
         return curr ;
     }
    
-return getnum(root->left,curr)+getnum(root->right,curr);
+return   sumNumber(root->left,curr)+sumNumber(root->right,curr);
    
 }
-    int sumNumbers(TreeNode* root) {
-   int sum=0,curr=0;
-   curr=getnum(root,curr);
-   sum+=curr;
-    return sum;
+    
+    int sumNumbers(TreeNode* root)
+    {
+        return sumNumber(root,0);
+
     }
    
 };
