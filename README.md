@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0058-length-of-last-word) |
+| [1189-maximum-number-of-balloons](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 ## Stack
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0202-happy-number) |
+| [1189-maximum-number-of-balloons](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 ## Sorting
 |  |
 | ------- |
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+## Counting
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
