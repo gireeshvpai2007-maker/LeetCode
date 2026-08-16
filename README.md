@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0217-contains-duplicate) |
 | [1189-maximum-number-of-balloons](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 ## Sorting
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0018-4sum) |
+| [0217-contains-duplicate](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0217-contains-duplicate) |
 ## Tree
 |  |
 | ------- |
