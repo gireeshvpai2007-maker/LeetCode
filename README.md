@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0263-ugly-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3870-count-commas-in-range](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/3870-count-commas-in-range) |
 ## Matrix
 |  |
 | ------- |
