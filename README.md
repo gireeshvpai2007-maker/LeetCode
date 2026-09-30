@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0058-length-of-last-word) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Stack
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Math
 |  |
 | ------- |
@@ -163,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->
