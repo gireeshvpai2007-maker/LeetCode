@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0058-length-of-last-word) |
+| [0257-binary-tree-paths](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0257-binary-tree-paths) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -192,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0098-validate-binary-search-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
