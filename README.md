@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0997-find-the-town-judge](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0997-find-the-town-judge) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0217-contains-duplicate) |
+| [0997-find-the-town-judge](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1189-maximum-number-of-balloons](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -208,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0113-path-sum-ii](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0257-binary-tree-paths) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
