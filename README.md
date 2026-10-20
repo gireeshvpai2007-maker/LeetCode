@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0785-is-graph-bipartite](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0785-is-graph-bipartite) |
 ## Binary Tree
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0112-path-sum) |
+| [0785-is-graph-bipartite](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0785-is-graph-bipartite) |
 ## Counting
 |  |
 | ------- |
@@ -213,5 +215,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0997-find-the-town-judge](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0997-find-the-town-judge) |
+## Union-Find
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0785-is-graph-bipartite) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
