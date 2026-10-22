@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0061-rotate-list](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0061-rotate-list) |
 | [0189-rotate-array](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0061-rotate-list) |
 ## Recursion
 |  |
 | ------- |
