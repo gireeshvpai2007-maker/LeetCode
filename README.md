@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0785-is-graph-bipartite](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0785-is-graph-bipartite) |
 ## Binary Tree
 |  |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Backtracking
 |  |
 | ------- |
