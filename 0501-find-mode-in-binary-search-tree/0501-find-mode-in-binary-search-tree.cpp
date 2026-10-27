@@ -1,44 +1,39 @@
 
 class Solution {
 public:
-    vector<int> pre(TreeNode* root) {
-        vector<int> ans;
+    int prevVal;
+    int count = 0;
+    int high = 0;
+    bool first = true;
+    vector<int> ans;
 
+    void inorder(TreeNode* root) {
         if (root == NULL)
-            return ans;
+            return;
 
-        ans.push_back(root->val);
+        inorder(root->left);
 
-        vector<int> l = pre(root->left);
-        ans.insert(ans.end(), l.begin(), l.end());
+        if (first || root->val != prevVal) {
+            prevVal = root->val;
+            count = 1;
+            first = false;
+        } else {
+            count++;
+        }
 
-        vector<int> r = pre(root->right);
-        ans.insert(ans.end(), r.begin(), r.end());
+        if (count > high) {
+            high = count;
+            ans.clear();
+            ans.push_back(root->val);
+        } else if (count == high) {
+            ans.push_back(root->val);
+        }
 
-        return ans;
+        inorder(root->right);
     }
 
     vector<int> findMode(TreeNode* root) {
-        vector<int> ans = pre(root);
-        unordered_map<int, int> mp;
-
-        for (int i = 0; i < ans.size(); i++) {
-            mp[ans[i]]++;
-        }
-
-        vector<int> a;
-        int high = 0;
-
-        for (auto p : mp) {
-            if (p.second > high)
-                high = p.second;
-        }
-
-        for (auto p : mp) {
-            if (p.second == high)
-                a.push_back(p.first);
-        }
-
-        return a;
+        inorder(root);
+        return ans;
     }
 };
