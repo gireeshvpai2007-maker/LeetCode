@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0896-monotonic-array](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0896-monotonic-array) |
 | [0997-find-the-town-judge](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0997-find-the-town-judge) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
