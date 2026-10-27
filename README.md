@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0682-baseball-game](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0682-baseball-game) |
 | [0896-monotonic-array](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0896-monotonic-array) |
 | [0997-find-the-town-judge](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0997-find-the-town-judge) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0682-baseball-game](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0682-baseball-game) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Math
 |  |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0682-baseball-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Sliding Window
 |  |
