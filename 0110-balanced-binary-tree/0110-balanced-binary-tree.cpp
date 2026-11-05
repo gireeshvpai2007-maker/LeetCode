@@ -1,25 +1,24 @@
 class Solution {
 public:
-    int height(TreeNode* root) {
+    int checkHeight(TreeNode* root) {
         if (root == nullptr)
             return 0;
 
-        int l = height(root->left);
-        int r = height(root->right);
+        int leftHeight = checkHeight(root->left);
+        if (leftHeight == -1)
+            return -1;  // Left subtree is unbalanced
 
-        return 1 + max(l, r);
+        int rightHeight = checkHeight(root->right);
+        if (rightHeight == -1)
+            return -1;  // Right subtree is unbalanced
+
+        if (abs(leftHeight - rightHeight) > 1)
+            return -1;  // This node is unbalanced
+
+        return 1 + max(leftHeight, rightHeight);
     }
 
     bool isBalanced(TreeNode* root) {
-        if (root == nullptr)
-            return true;
-
-        int l = height(root->left);
-        int r = height(root->right);
-
-        if (abs(l - r) > 1)
-            return false;
-
-        return isBalanced(root->left) && isBalanced(root->right);
+        return checkHeight(root) != -1;
     }
 };
