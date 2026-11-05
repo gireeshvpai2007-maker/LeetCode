@@ -16,7 +16,7 @@ public:
         return build(preorder, inorder, preIndex, 0, inorder.size() - 1);
     }
 
-private:
+public:
     TreeNode* build(vector<int>& preorder, vector<int>& inorder,
                     int& preIndex, int inStart, int inEnd) {
         if (inStart > inEnd)
