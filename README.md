@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0785-is-graph-bipartite](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0785-is-graph-bipartite) |
 ## Binary Tree
 |  |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0785-is-graph-bipartite](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0785-is-graph-bipartite) |
 ## Counting
 |  |
