@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0222-count-complete-tree-nodes) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0067-add-binary) |
 | [0257-binary-tree-paths](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0257-binary-tree-paths) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/1189-maximum-number-of-balloons) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0202-happy-number) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0682-baseball-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Sliding Window
