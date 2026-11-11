@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0202-happy-number) |
@@ -271,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0785-is-graph-bipartite) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/gireeshvpai2007-maker/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
