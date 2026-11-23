@@ -6,7 +6,7 @@ public:
     {
         if(root == NULL)
             return;
-
+            
         orderTraversal(root->left);
         tree.push_back(root->val);
         orderTraversal(root->right);
